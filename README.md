@@ -2,7 +2,7 @@
 ### Endpoint Monitoring and Detection Investigations
 - A hands-on security operations lab demonstrating centralized log collection, Windows endpoint monitoring, and investigation of controlled security events using Wazuh and Microsoft Sysmon.
 
-View Project Documentation & Reports Here: (SOC-Lab-Documentation.pdf)
+[View Project Documentation & Reports Here](SOC-Lab-Documentation.pdf)
 
 ## Overview
 - I built this lab to practice the workflow from infrastructure deployment to alert investigation. Wazuh runs in Docker on an Ubuntu server and monitors two Windows endpoints. A dedicated Windows 11 virtual machine provides an environment for controlled testing.
